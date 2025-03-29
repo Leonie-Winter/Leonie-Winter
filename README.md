@@ -24,16 +24,5 @@ I only started uploading everything to GitHub in my last year of school, so here
   
 - Raspberry Pi 5 
   
-- Old 1L PC running the Nextcloud for the [Stadtschüler:innenring Bremerhaven](https://www.bremerhaven.de/de/leben-arbeiten-gesundheit/bildung-forschung/schule/stadtschuelerring.83813.html) with extra HDD
 
-
-
-### Some courses I completed
----
-
-- [Harvards CS50x 2025](https://cs50.harvard.edu/x/2025/) ([My Notes]())
-  
-- [Cisco CCNA](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) ([My Notes]())
-  
-- [CvO GyO Inf LK 24-26](https://github.com/Leonie-Winter/331-2inf2-LK-24-25) 
 
