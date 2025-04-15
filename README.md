@@ -1,6 +1,7 @@
 # Leonie Winter R.
 
 pronouns: she/her
+proud european 🇪🇺
 
 ---
 
