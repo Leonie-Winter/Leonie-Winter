@@ -1,18 +1,15 @@
 # Leonie Winter R.
 
-pronouns: she/her
-proud european 🇪🇺
+pronouns: she/her • proud european 🇪🇺 • RISC-V and Linux yo
 
 ---
 
 ## Who am i
-Hi im Leonie (or Winter for all the English folk who struggle with pronuncing that), i like all kinds of humanities and programming. When im not doing Sysadmin stuff, you'll find me writing low-level drivers or tinkering with hardware i probably found on the street.
+Hi I'm Leonie (or Winter for those who find the German pronunciation tricky), I like all kinds of engineering, humanities and programming. I'm passionate about hardware, some homelabbing, or tinkering with hardware I probably found on the street.
 
 ## Programming Stats
 
-I like writing in C and have plenty of experience with Python and SQL.
-
-I only started uploading everything to GitHub in my last year of school, so here are my stats so far.
+I learned Python && SQL in School but I've come to like C during my work on **Embedded Systems**
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=leonie-winter&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
@@ -21,7 +18,7 @@ I only started uploading everything to GitHub in my last year of school, so here
 
 ## Homelab Setup 
 
-- Old Dell Computer running Jellyfin and as a NAS
+- Old Dell Computer running Jellyfin && NAS
   
 - Raspberry Pi 5 
   
