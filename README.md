@@ -11,8 +11,6 @@ Hi I'm Leonie (or Winter for those who find the German pronunciation tricky), I 
 
 I learned Python && SQL in School but I've come to like C during my work on **Embedded Systems**
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=leonie-winter&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonie-winter&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 
