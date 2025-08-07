@@ -9,11 +9,17 @@ Hi I'm Leonie (or Winter for those who find the German pronunciation tricky), I 
 
 ## Tech stack
 
-I learned sensors and microcontrollers with my final school project ![MORRIGAN](https://github.com/Leonie-Winter/MORRIGAN).
-
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonie-winter&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
-In school I learned the basics of algorithms and ![programming with python](https://github.com/Leonie-Winter/WhosThatPokemon), ![databases](https://github.com/Leonie-Winter/contact-manager) and cryptology.
+### From School
+
+Some things i learned during my proper education:
+- sensors and microcontrollers with ![MORRIGAN](https://github.com/Leonie-Winter/MORRIGAN).
+
+- basics of algorithms and ![programming with python](https://github.com/Leonie-Winter/WhosThatPokemon), 
+
+- ![databases](https://github.com/Leonie-Winter/contact-manager) and cryptology.
+
 Each of these had a seperate project which i linked to.
 
 ## Homelab Setup 
