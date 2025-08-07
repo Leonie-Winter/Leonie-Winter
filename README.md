@@ -1,18 +1,20 @@
 # Leonie Winter R.
 
-pronouns: she/her • proud european 🇪🇺 • RISC-V and Linux yo
+european 🇪🇺 • Electrical Engineering • Linux
 
 ---
 
 ## Who am i
 Hi I'm Leonie (or Winter for those who find the German pronunciation tricky), I like all kinds of engineering, humanities and programming. I'm passionate about hardware, some homelabbing, or tinkering with hardware I probably found on the street.
 
-## Programming Stats
+## Tech stack
 
-I learned Python && SQL in School but I've come to like C during my work on **Embedded Systems**
+I learned sensors and microcontrollers with my final school project ![MORRIGAN](https://github.com/Leonie-Winter/MORRIGAN).
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonie-winter&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
+In school I learned the basics of algorithms and ![programming with python](https://github.com/Leonie-Winter/WhosThatPokemon), ![databases](https://github.com/Leonie-Winter/contact-manager) and cryptology.
+Each of these had a seperate project which i linked to.
 
 ## Homelab Setup 
 
