@@ -14,7 +14,7 @@ Hi I'm Leonie (or Winter for those who find the German pronunciation tricky), I 
 ### From School
 
 Some things i learned during my proper education:
-- sensors and microcontrollers with ![MORRIGAN](https://github.com/Leonie-Winter/MORRIGAN).
+- pcb design, sensors and microcontrollers with ![MORRIGAN](https://github.com/Leonie-Winter/MORRIGAN).
 
 - basics of algorithms and ![programming with python](https://github.com/Leonie-Winter/WhosThatPokemon), 
 
@@ -22,11 +22,6 @@ Some things i learned during my proper education:
 
 Each of these had a seperate project which i linked to.
 
-## Homelab Setup 
-
-- Old Dell Computer running Jellyfin && NAS
-  
-- Raspberry Pi 5 
   
 
 
